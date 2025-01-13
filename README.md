@@ -44,5 +44,14 @@ I’m skilled at cleaning messy datasets, performing in-depth analyses, and crea
 ## :rocket: **My Journey** 
 - **Google Data Analytics Professional Certification**: I recently completed the Google Data Analytics program, which provided me with a strong foundation in Data Analytics, covering the end-to-end data analysis process, from data cleaning and preparation to visualization and storytelling.
 
-
+## Socials
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/federicomanuelmaximovicz/" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+</p>
 
