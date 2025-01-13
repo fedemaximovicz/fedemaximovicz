@@ -16,17 +16,17 @@ I’m skilled at cleaning messy datasets, performing in-depth analyses, and crea
 </br></br>
 
 #### :computer: Data Analysis & Manipulation
-- Python: Pandas, NumPy
-- SQL: Query optimization, data extraction, joins, aggregations
-- R Programming: ggplot2, dplyr, tidyr
+- **Python**: Pandas, NumPy
+- **SQL**: Query optimization, data extraction, joins, aggregations
+- **R Programming**: ggplot2, dplyr, tidyr
 
 #### :chart_with_upwards_trend: Data Visualization
-- Tableau: Visualizations and interactive dashboards
-- Matplotlib & Seaborn: Statistical and exploratory visualizations
+- **Tableau**: Visualizations and interactive dashboards
+- **Matplotlib & Seaborn**: Statistical and exploratory visualizations
 
 #### :wrench: Tools & Platforms
-- Google Sheets & Excel: Advanced formulas, pivot tables, macros
-- Jupyter Notebook: Data exploration and storytelling
+- **Google Sheets & Excel**: Advanced formulas, pivot tables, macros
+- **Jupyter Notebook**: Data exploration and storytelling
 
 #### :smile: Soft Skills
 - Data storytelling and communication
